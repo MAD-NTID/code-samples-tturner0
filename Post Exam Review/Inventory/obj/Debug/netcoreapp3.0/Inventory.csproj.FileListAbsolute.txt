@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\bin\Debug\netcoreapp3.0\Inventory.exe
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\bin\Debug\netcoreapp3.0\Inventory.deps.json
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\bin\Debug\netcoreapp3.0\Inventory.runtimeconfig.json
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\bin\Debug\netcoreapp3.0\Inventory.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\bin\Debug\netcoreapp3.0\Inventory.dll
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\bin\Debug\netcoreapp3.0\Inventory.pdb
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\obj\Debug\netcoreapp3.0\Inventory.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\obj\Debug\netcoreapp3.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\obj\Debug\netcoreapp3.0\Inventory.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\obj\Debug\netcoreapp3.0\Inventory.dll
+C:\Users\tjtics\Downloads\Post Exam Review\Inventory\obj\Debug\netcoreapp3.0\Inventory.pdb

@@ -1,0 +1,21 @@
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.deps.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.runtimeconfig.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Homework\Project01\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.pdb
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.deps.json
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.runtimeconfig.json
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.dll
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\bin\Debug\netcoreapp2.2\BurgerJoint.pdb
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.dll
+C:\Users\tjtics\Downloads\Project Review\BurgerJoint\obj\Debug\netcoreapp2.2\BurgerJoint.pdb

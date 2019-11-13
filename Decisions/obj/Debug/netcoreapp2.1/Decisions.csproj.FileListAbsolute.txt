@@ -1,0 +1,33 @@
+C:\Users\tjtics\Documents\Decisions\bin\Debug\netcoreapp2.1\Decisions.deps.json
+C:\Users\tjtics\Documents\Decisions\bin\Debug\netcoreapp2.1\Decisions.runtimeconfig.json
+C:\Users\tjtics\Documents\Decisions\bin\Debug\netcoreapp2.1\Decisions.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Decisions\bin\Debug\netcoreapp2.1\Decisions.dll
+C:\Users\tjtics\Documents\Decisions\bin\Debug\netcoreapp2.1\Decisions.pdb
+C:\Users\tjtics\Documents\Decisions\obj\Debug\netcoreapp2.1\Decisions.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Decisions\obj\Debug\netcoreapp2.1\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Documents\Decisions\obj\Debug\netcoreapp2.1\Decisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Decisions\obj\Debug\netcoreapp2.1\Decisions.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Decisions\obj\Debug\netcoreapp2.1\Decisions.dll
+C:\Users\tjtics\Documents\Decisions\obj\Debug\netcoreapp2.1\Decisions.pdb
+C:\Users\tjtics\Downloads\Decisions\bin\Debug\netcoreapp2.1\Decisions.deps.json
+C:\Users\tjtics\Downloads\Decisions\bin\Debug\netcoreapp2.1\Decisions.runtimeconfig.json
+C:\Users\tjtics\Downloads\Decisions\bin\Debug\netcoreapp2.1\Decisions.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Decisions\bin\Debug\netcoreapp2.1\Decisions.dll
+C:\Users\tjtics\Downloads\Decisions\bin\Debug\netcoreapp2.1\Decisions.pdb
+C:\Users\tjtics\Downloads\Decisions\obj\Debug\netcoreapp2.1\Decisions.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Decisions\obj\Debug\netcoreapp2.1\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\Decisions\obj\Debug\netcoreapp2.1\Decisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Decisions\obj\Debug\netcoreapp2.1\Decisions.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Decisions\obj\Debug\netcoreapp2.1\Decisions.dll
+C:\Users\tjtics\Downloads\Decisions\obj\Debug\netcoreapp2.1\Decisions.pdb
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\obj\Debug\netcoreapp2.1\Decisions.csprojAssemblyReference.cache
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\obj\Debug\netcoreapp2.1\Decisions.csproj.CoreCompileInputs.cache
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\obj\Debug\netcoreapp2.1\Decisions.AssemblyInfoInputs.cache
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\obj\Debug\netcoreapp2.1\Decisions.AssemblyInfo.cs
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\obj\Debug\netcoreapp2.1\Decisions.dll
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\obj\Debug\netcoreapp2.1\Decisions.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\bin\Debug\netcoreapp2.1\Decisions.deps.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\bin\Debug\netcoreapp2.1\Decisions.runtimeconfig.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\bin\Debug\netcoreapp2.1\Decisions.runtimeconfig.dev.json
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\bin\Debug\netcoreapp2.1\Decisions.dll
+c:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Decisions\bin\Debug\netcoreapp2.1\Decisions.pdb

@@ -1,0 +1,11 @@
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\obj\Debug\netcoreapp2.2\Ternary.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\obj\Debug\netcoreapp2.2\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\obj\Debug\netcoreapp2.2\Ternary.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\obj\Debug\netcoreapp2.2\Ternary.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\bin\Debug\netcoreapp2.2\Ternary.deps.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\bin\Debug\netcoreapp2.2\Ternary.runtimeconfig.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\bin\Debug\netcoreapp2.2\Ternary.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\bin\Debug\netcoreapp2.2\Ternary.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\bin\Debug\netcoreapp2.2\Ternary.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\obj\Debug\netcoreapp2.2\Ternary.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\Ternary\obj\Debug\netcoreapp2.2\Ternary.pdb

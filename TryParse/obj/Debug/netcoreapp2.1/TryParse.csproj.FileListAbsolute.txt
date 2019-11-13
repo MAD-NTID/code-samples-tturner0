@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\TryParse\bin\Debug\netcoreapp2.1\TryParse.deps.json
+C:\Users\tjtics\Downloads\TryParse\bin\Debug\netcoreapp2.1\TryParse.runtimeconfig.json
+C:\Users\tjtics\Downloads\TryParse\bin\Debug\netcoreapp2.1\TryParse.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\TryParse\bin\Debug\netcoreapp2.1\TryParse.dll
+C:\Users\tjtics\Downloads\TryParse\bin\Debug\netcoreapp2.1\TryParse.pdb
+C:\Users\tjtics\Downloads\TryParse\obj\Debug\netcoreapp2.1\TryParse.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\TryParse\obj\Debug\netcoreapp2.1\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\TryParse\obj\Debug\netcoreapp2.1\TryParse.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\TryParse\obj\Debug\netcoreapp2.1\TryParse.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\TryParse\obj\Debug\netcoreapp2.1\TryParse.dll
+C:\Users\tjtics\Downloads\TryParse\obj\Debug\netcoreapp2.1\TryParse.pdb

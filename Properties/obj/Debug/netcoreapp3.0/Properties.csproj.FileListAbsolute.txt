@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\Properties\bin\Debug\netcoreapp3.0\Properties.exe
+C:\Users\tjtics\Downloads\Properties\bin\Debug\netcoreapp3.0\Properties.deps.json
+C:\Users\tjtics\Downloads\Properties\bin\Debug\netcoreapp3.0\Properties.runtimeconfig.json
+C:\Users\tjtics\Downloads\Properties\bin\Debug\netcoreapp3.0\Properties.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Properties\bin\Debug\netcoreapp3.0\Properties.dll
+C:\Users\tjtics\Downloads\Properties\bin\Debug\netcoreapp3.0\Properties.pdb
+C:\Users\tjtics\Downloads\Properties\obj\Debug\netcoreapp3.0\Properties.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Properties\obj\Debug\netcoreapp3.0\Properties.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Properties\obj\Debug\netcoreapp3.0\Properties.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Properties\obj\Debug\netcoreapp3.0\Properties.dll
+C:\Users\tjtics\Downloads\Properties\obj\Debug\netcoreapp3.0\Properties.pdb

@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\StringsDemo\bin\Debug\netcoreapp3.0\StringsDemo.exe
+C:\Users\tjtics\Downloads\StringsDemo\bin\Debug\netcoreapp3.0\StringsDemo.deps.json
+C:\Users\tjtics\Downloads\StringsDemo\bin\Debug\netcoreapp3.0\StringsDemo.runtimeconfig.json
+C:\Users\tjtics\Downloads\StringsDemo\bin\Debug\netcoreapp3.0\StringsDemo.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\StringsDemo\bin\Debug\netcoreapp3.0\StringsDemo.dll
+C:\Users\tjtics\Downloads\StringsDemo\bin\Debug\netcoreapp3.0\StringsDemo.pdb
+C:\Users\tjtics\Downloads\StringsDemo\obj\Debug\netcoreapp3.0\StringsDemo.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\StringsDemo\obj\Debug\netcoreapp3.0\StringsDemo.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\StringsDemo\obj\Debug\netcoreapp3.0\StringsDemo.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\StringsDemo\obj\Debug\netcoreapp3.0\StringsDemo.dll
+C:\Users\tjtics\Downloads\StringsDemo\obj\Debug\netcoreapp3.0\StringsDemo.pdb

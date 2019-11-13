@@ -1,0 +1,16 @@
+C:\Users\tjtics\Downloads\Loops\bin\Debug\netcoreapp3.0\Loops.exe
+C:\Users\tjtics\Downloads\Loops\bin\Debug\netcoreapp3.0\Loops.deps.json
+C:\Users\tjtics\Downloads\Loops\bin\Debug\netcoreapp3.0\Loops.runtimeconfig.json
+C:\Users\tjtics\Downloads\Loops\bin\Debug\netcoreapp3.0\Loops.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Loops\bin\Debug\netcoreapp3.0\Loops.dll
+C:\Users\tjtics\Downloads\Loops\bin\Debug\netcoreapp3.0\Loops.pdb
+C:\Users\tjtics\Downloads\Loops\obj\Debug\netcoreapp3.0\Loops.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Loops\obj\Debug\netcoreapp3.0\Loops.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Loops\obj\Debug\netcoreapp3.0\Loops.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Loops\obj\Debug\netcoreapp3.0\Loops.dll
+C:\Users\tjtics\Downloads\Loops\obj\Debug\netcoreapp3.0\Loops.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Loops\obj\Debug\netcoreapp3.0\Loops.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Loops\obj\Debug\netcoreapp3.0\Loops.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Loops\obj\Debug\netcoreapp3.0\Loops.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Loops\obj\Debug\netcoreapp3.0\Loops.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Loops\obj\Debug\netcoreapp3.0\Loops.pdb

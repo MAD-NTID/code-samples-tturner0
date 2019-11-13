@@ -1,0 +1,11 @@
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\bin\Debug\netcoreapp2.2\TryParseWithSwitch.deps.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\bin\Debug\netcoreapp2.2\TryParseWithSwitch.runtimeconfig.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\bin\Debug\netcoreapp2.2\TryParseWithSwitch.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\bin\Debug\netcoreapp2.2\TryParseWithSwitch.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\bin\Debug\netcoreapp2.2\TryParseWithSwitch.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\obj\Debug\netcoreapp2.2\TryParseWithSwitch.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\obj\Debug\netcoreapp2.2\TryParseWithSwitch.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\obj\Debug\netcoreapp2.2\TryParseWithSwitch.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\obj\Debug\netcoreapp2.2\TryParseWithSwitch.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\obj\Debug\netcoreapp2.2\TryParseWithSwitch.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\TryParseWithSwitch\obj\Debug\netcoreapp2.2\TryParseWithSwitch.pdb

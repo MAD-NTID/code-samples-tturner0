@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\Loops and Enum\bin\Debug\netcoreapp3.0\Loops and Enum.exe
+C:\Users\tjtics\Downloads\Loops and Enum\bin\Debug\netcoreapp3.0\Loops and Enum.deps.json
+C:\Users\tjtics\Downloads\Loops and Enum\bin\Debug\netcoreapp3.0\Loops and Enum.runtimeconfig.json
+C:\Users\tjtics\Downloads\Loops and Enum\bin\Debug\netcoreapp3.0\Loops and Enum.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Loops and Enum\bin\Debug\netcoreapp3.0\Loops and Enum.dll
+C:\Users\tjtics\Downloads\Loops and Enum\bin\Debug\netcoreapp3.0\Loops and Enum.pdb
+C:\Users\tjtics\Downloads\Loops and Enum\obj\Debug\netcoreapp3.0\Loops and Enum.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Loops and Enum\obj\Debug\netcoreapp3.0\Loops and Enum.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Loops and Enum\obj\Debug\netcoreapp3.0\Loops and Enum.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Loops and Enum\obj\Debug\netcoreapp3.0\Loops and Enum.dll
+C:\Users\tjtics\Downloads\Loops and Enum\obj\Debug\netcoreapp3.0\Loops and Enum.pdb

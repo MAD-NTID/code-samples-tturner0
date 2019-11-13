@@ -1,0 +1,11 @@
+c:\Users\tjtics\Downloads\MethodsTrialAndError\bin\Debug\netcoreapp3.0\MethodsTrialAndError.exe
+C:\Users\tjtics\Downloads\MethodsTrialAndError\bin\Debug\netcoreapp3.0\MethodsTrialAndError.deps.json
+C:\Users\tjtics\Downloads\MethodsTrialAndError\bin\Debug\netcoreapp3.0\MethodsTrialAndError.runtimeconfig.json
+C:\Users\tjtics\Downloads\MethodsTrialAndError\bin\Debug\netcoreapp3.0\MethodsTrialAndError.runtimeconfig.dev.json
+c:\Users\tjtics\Downloads\MethodsTrialAndError\bin\Debug\netcoreapp3.0\MethodsTrialAndError.dll
+c:\Users\tjtics\Downloads\MethodsTrialAndError\bin\Debug\netcoreapp3.0\MethodsTrialAndError.pdb
+c:\Users\tjtics\Downloads\MethodsTrialAndError\obj\Debug\netcoreapp3.0\MethodsTrialAndError.csprojAssemblyReference.cache
+c:\Users\tjtics\Downloads\MethodsTrialAndError\obj\Debug\netcoreapp3.0\MethodsTrialAndError.AssemblyInfoInputs.cache
+c:\Users\tjtics\Downloads\MethodsTrialAndError\obj\Debug\netcoreapp3.0\MethodsTrialAndError.AssemblyInfo.cs
+c:\Users\tjtics\Downloads\MethodsTrialAndError\obj\Debug\netcoreapp3.0\MethodsTrialAndError.dll
+c:\Users\tjtics\Downloads\MethodsTrialAndError\obj\Debug\netcoreapp3.0\MethodsTrialAndError.pdb

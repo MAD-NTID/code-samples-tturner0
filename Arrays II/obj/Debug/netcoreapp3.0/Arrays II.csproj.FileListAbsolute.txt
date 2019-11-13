@@ -1,0 +1,22 @@
+c:\Users\tjtics\Downloads\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.exe
+C:\Users\tjtics\Downloads\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.deps.json
+C:\Users\tjtics\Downloads\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.runtimeconfig.json
+C:\Users\tjtics\Downloads\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.runtimeconfig.dev.json
+c:\Users\tjtics\Downloads\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.dll
+c:\Users\tjtics\Downloads\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.pdb
+c:\Users\tjtics\Downloads\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.csprojAssemblyReference.cache
+c:\Users\tjtics\Downloads\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.AssemblyInfoInputs.cache
+c:\Users\tjtics\Downloads\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.AssemblyInfo.cs
+c:\Users\tjtics\Downloads\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.dll
+c:\Users\tjtics\Downloads\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\obj\Debug\netcoreapp3.0\Arrays II.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.exe
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.deps.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.runtimeconfig.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays II\bin\Debug\netcoreapp3.0\Arrays II.pdb

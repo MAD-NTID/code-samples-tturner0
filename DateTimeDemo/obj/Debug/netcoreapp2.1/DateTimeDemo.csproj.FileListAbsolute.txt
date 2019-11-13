@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\DateTimeDemo\bin\Debug\netcoreapp2.1\DateTimeDemo.deps.json
+C:\Users\tjtics\Downloads\DateTimeDemo\bin\Debug\netcoreapp2.1\DateTimeDemo.runtimeconfig.json
+C:\Users\tjtics\Downloads\DateTimeDemo\bin\Debug\netcoreapp2.1\DateTimeDemo.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\DateTimeDemo\bin\Debug\netcoreapp2.1\DateTimeDemo.dll
+C:\Users\tjtics\Downloads\DateTimeDemo\bin\Debug\netcoreapp2.1\DateTimeDemo.pdb
+C:\Users\tjtics\Downloads\DateTimeDemo\obj\Debug\netcoreapp2.1\DateTimeDemo.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\DateTimeDemo\obj\Debug\netcoreapp2.1\DateTimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\DateTimeDemo\obj\Debug\netcoreapp2.1\DateTimeDemo.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\DateTimeDemo\obj\Debug\netcoreapp2.1\DateTimeDemo.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\DateTimeDemo\obj\Debug\netcoreapp2.1\DateTimeDemo.dll
+C:\Users\tjtics\Downloads\DateTimeDemo\obj\Debug\netcoreapp2.1\DateTimeDemo.pdb

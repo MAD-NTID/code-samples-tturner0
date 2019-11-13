@@ -1,0 +1,27 @@
+C:\Users\tjtics\Downloads\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.exe
+C:\Users\tjtics\Downloads\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.deps.json
+C:\Users\tjtics\Downloads\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.runtimeconfig.json
+C:\Users\tjtics\Downloads\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.dll
+C:\Users\tjtics\Downloads\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.pdb
+C:\Users\tjtics\Downloads\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.dll
+C:\Users\tjtics\Downloads\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.pdb
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.exe
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.deps.json
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.runtimeconfig.json
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.runtimeconfig.dev.json
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.dll
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\bin\Debug\netcoreapp3.0\StaticObjects.pdb
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.csprojAssemblyReference.cache
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.AssemblyInfoInputs.cache
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.AssemblyInfo.cs
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.dll
+C:\Users\tiand\Downloads\VSC\Code Samples\StaticObjects\obj\Debug\netcoreapp3.0\StaticObjects.pdb

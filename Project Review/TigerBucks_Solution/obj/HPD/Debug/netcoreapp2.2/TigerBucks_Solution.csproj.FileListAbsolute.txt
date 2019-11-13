@@ -1,0 +1,11 @@
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\bin\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.deps.json
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\bin\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.runtimeconfig.json
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\bin\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\bin\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.dll
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\bin\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.pdb
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\obj\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\obj\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\obj\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\obj\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.AssemblyInfo.cs
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\obj\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.dll
+C:\Users\Mark\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\TigerBucks_Solution\obj\HPD\Debug\netcoreapp2.2\TigerBucks_Solution.pdb

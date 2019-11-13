@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\Methods\bin\Debug\netcoreapp3.0\Methods.exe
+C:\Users\tjtics\Downloads\Methods\bin\Debug\netcoreapp3.0\Methods.deps.json
+C:\Users\tjtics\Downloads\Methods\bin\Debug\netcoreapp3.0\Methods.runtimeconfig.json
+C:\Users\tjtics\Downloads\Methods\bin\Debug\netcoreapp3.0\Methods.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Methods\bin\Debug\netcoreapp3.0\Methods.dll
+C:\Users\tjtics\Downloads\Methods\bin\Debug\netcoreapp3.0\Methods.pdb
+C:\Users\tjtics\Downloads\Methods\obj\Debug\netcoreapp3.0\Methods.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Methods\obj\Debug\netcoreapp3.0\Methods.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Methods\obj\Debug\netcoreapp3.0\Methods.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Methods\obj\Debug\netcoreapp3.0\Methods.dll
+C:\Users\tjtics\Downloads\Methods\obj\Debug\netcoreapp3.0\Methods.pdb

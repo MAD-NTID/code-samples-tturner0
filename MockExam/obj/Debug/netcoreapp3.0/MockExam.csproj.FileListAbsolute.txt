@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\MockExam\bin\Debug\netcoreapp3.0\MockExam.exe
+C:\Users\tjtics\Downloads\MockExam\bin\Debug\netcoreapp3.0\MockExam.deps.json
+C:\Users\tjtics\Downloads\MockExam\bin\Debug\netcoreapp3.0\MockExam.runtimeconfig.json
+C:\Users\tjtics\Downloads\MockExam\bin\Debug\netcoreapp3.0\MockExam.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\MockExam\bin\Debug\netcoreapp3.0\MockExam.dll
+C:\Users\tjtics\Downloads\MockExam\bin\Debug\netcoreapp3.0\MockExam.pdb
+C:\Users\tjtics\Downloads\MockExam\obj\Debug\netcoreapp3.0\MockExam.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\MockExam\obj\Debug\netcoreapp3.0\MockExam.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\MockExam\obj\Debug\netcoreapp3.0\MockExam.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\MockExam\obj\Debug\netcoreapp3.0\MockExam.dll
+C:\Users\tjtics\Downloads\MockExam\obj\Debug\netcoreapp3.0\MockExam.pdb

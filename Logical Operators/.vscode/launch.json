@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Switch",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Switch/bin/Debug/netcoreapp2.2/Switch.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Switch",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "SwitchUsingString",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/SwitchUsingString/bin/Debug/netcoreapp2.2/SwitchUsingString.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/SwitchUsingString",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "TryParseWithSwitch",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}bin/Debug/netcoreapp2.2/TryParseWithSwitch.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ]
+}

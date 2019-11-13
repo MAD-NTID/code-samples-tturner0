@@ -1,0 +1,16 @@
+c:\Users\tjtics\Downloads\Arrays III\bin\Debug\netcoreapp3.0\Arrays III.exe
+C:\Users\tjtics\Downloads\Arrays III\bin\Debug\netcoreapp3.0\Arrays III.deps.json
+C:\Users\tjtics\Downloads\Arrays III\bin\Debug\netcoreapp3.0\Arrays III.runtimeconfig.json
+C:\Users\tjtics\Downloads\Arrays III\bin\Debug\netcoreapp3.0\Arrays III.runtimeconfig.dev.json
+c:\Users\tjtics\Downloads\Arrays III\bin\Debug\netcoreapp3.0\Arrays III.dll
+c:\Users\tjtics\Downloads\Arrays III\bin\Debug\netcoreapp3.0\Arrays III.pdb
+c:\Users\tjtics\Downloads\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.csprojAssemblyReference.cache
+c:\Users\tjtics\Downloads\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.AssemblyInfoInputs.cache
+c:\Users\tjtics\Downloads\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.AssemblyInfo.cs
+c:\Users\tjtics\Downloads\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.dll
+c:\Users\tjtics\Downloads\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Arrays III\obj\Debug\netcoreapp3.0\Arrays III.pdb

@@ -1,0 +1,43 @@
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\bin\Debug\netcoreapp2.2\Variables.deps.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\bin\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\bin\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\obj\Debug\netcoreapp2.2\Variables.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\obj\Debug\netcoreapp2.2\Variables.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfo.cs
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\obj\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tiand\OneDrive\IT\RIT\2191\Variables\obj\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.deps.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfo.cs
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tiand\OneDrive\IT\RIT\2191\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.deps.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfo.cs
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tiand\OneDrive\IT\RIT\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.deps.json
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.json
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.dev.json
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\bin\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.csprojAssemblyReference.cache
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfoInputs.cache
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfo.cs
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.dll
+C:\Users\tjtics\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Variables\obj\Debug\netcoreapp2.2\Variables.pdb

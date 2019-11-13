@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Loops and Enum/1.0.0": {
+        "runtime": {
+          "Loops and Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops and Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

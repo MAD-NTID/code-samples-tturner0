@@ -1,0 +1,11 @@
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\bin\Debug\netcoreapp2.2\SwitchUsingString.deps.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\bin\Debug\netcoreapp2.2\SwitchUsingString.runtimeconfig.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\bin\Debug\netcoreapp2.2\SwitchUsingString.runtimeconfig.dev.json
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\bin\Debug\netcoreapp2.2\SwitchUsingString.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\bin\Debug\netcoreapp2.2\SwitchUsingString.pdb
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\obj\Debug\netcoreapp2.2\SwitchUsingString.csprojAssemblyReference.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\obj\Debug\netcoreapp2.2\SwitchUsingString.csproj.CoreCompileInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\obj\Debug\netcoreapp2.2\SwitchUsingString.AssemblyInfoInputs.cache
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\obj\Debug\netcoreapp2.2\SwitchUsingString.AssemblyInfo.cs
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\obj\Debug\netcoreapp2.2\SwitchUsingString.dll
+C:\Users\tiand\OneDrive - rit.edu\Classes\2191\PF-1\Code Samples\Logical Operators\SwitchUsingString\obj\Debug\netcoreapp2.2\SwitchUsingString.pdb

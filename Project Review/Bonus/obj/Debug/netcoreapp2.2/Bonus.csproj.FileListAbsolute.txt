@@ -1,0 +1,22 @@
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\bin\Debug\netcoreapp2.2\Bonus.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\bin\Debug\netcoreapp2.2\Bonus.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\bin\Debug\netcoreapp2.2\Bonus.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\bin\Debug\netcoreapp2.2\Bonus.dll
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\bin\Debug\netcoreapp2.2\Bonus.pdb
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\obj\Debug\netcoreapp2.2\Bonus.csprojAssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\obj\Debug\netcoreapp2.2\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\obj\Debug\netcoreapp2.2\Bonus.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\obj\Debug\netcoreapp2.2\Bonus.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\obj\Debug\netcoreapp2.2\Bonus.dll
+C:\Users\msrvks\OneDrive - rit.edu\Curriculum\Master Courses\NMAD-180 PF I\Day 12\Practice Practical 1 Solutions\Bonus\obj\Debug\netcoreapp2.2\Bonus.pdb
+C:\Users\tjtics\Downloads\Project Review\bonus\bin\Debug\netcoreapp2.2\Bonus.deps.json
+C:\Users\tjtics\Downloads\Project Review\bonus\bin\Debug\netcoreapp2.2\Bonus.runtimeconfig.json
+C:\Users\tjtics\Downloads\Project Review\bonus\bin\Debug\netcoreapp2.2\Bonus.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Project Review\bonus\bin\Debug\netcoreapp2.2\Bonus.dll
+C:\Users\tjtics\Downloads\Project Review\bonus\bin\Debug\netcoreapp2.2\Bonus.pdb
+C:\Users\tjtics\Downloads\Project Review\bonus\obj\Debug\netcoreapp2.2\Bonus.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Project Review\bonus\obj\Debug\netcoreapp2.2\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\Project Review\bonus\obj\Debug\netcoreapp2.2\Bonus.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Project Review\bonus\obj\Debug\netcoreapp2.2\Bonus.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Project Review\bonus\obj\Debug\netcoreapp2.2\Bonus.dll
+C:\Users\tjtics\Downloads\Project Review\bonus\obj\Debug\netcoreapp2.2\Bonus.pdb
