@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\Lists\obj\Debug\netcoreapp3.0\Lists.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Lists\obj\Debug\netcoreapp3.0\Lists.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Lists\obj\Debug\netcoreapp3.0\Lists.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Lists\bin\Debug\netcoreapp3.0\Lists.exe
+C:\Users\tjtics\Downloads\Lists\bin\Debug\netcoreapp3.0\Lists.deps.json
+C:\Users\tjtics\Downloads\Lists\bin\Debug\netcoreapp3.0\Lists.runtimeconfig.json
+C:\Users\tjtics\Downloads\Lists\bin\Debug\netcoreapp3.0\Lists.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Lists\bin\Debug\netcoreapp3.0\Lists.dll
+C:\Users\tjtics\Downloads\Lists\bin\Debug\netcoreapp3.0\Lists.pdb
+C:\Users\tjtics\Downloads\Lists\obj\Debug\netcoreapp3.0\Lists.dll
+C:\Users\tjtics\Downloads\Lists\obj\Debug\netcoreapp3.0\Lists.pdb
