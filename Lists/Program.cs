@@ -8,7 +8,8 @@ namespace Lists
         static void Main(string[] args)
         {
             List<VideoGame> games = new List<VideoGame>(50);
-
+            VideoGameStruct vgs = new VideoGameStruct();
+            vgs.Title = "Title";
             //Console.WriteLine(games.Capacity);
             //VideoGame[] games = new VideoGame[0];
 

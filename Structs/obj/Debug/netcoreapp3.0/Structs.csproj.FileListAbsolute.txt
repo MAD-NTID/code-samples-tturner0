@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\Structs\bin\Debug\netcoreapp3.0\Structs.exe
+C:\Users\tjtics\Downloads\Structs\bin\Debug\netcoreapp3.0\Structs.deps.json
+C:\Users\tjtics\Downloads\Structs\bin\Debug\netcoreapp3.0\Structs.runtimeconfig.json
+C:\Users\tjtics\Downloads\Structs\bin\Debug\netcoreapp3.0\Structs.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Structs\bin\Debug\netcoreapp3.0\Structs.dll
+C:\Users\tjtics\Downloads\Structs\bin\Debug\netcoreapp3.0\Structs.pdb
+C:\Users\tjtics\Downloads\Structs\obj\Debug\netcoreapp3.0\Structs.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Structs\obj\Debug\netcoreapp3.0\Structs.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Structs\obj\Debug\netcoreapp3.0\Structs.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Structs\obj\Debug\netcoreapp3.0\Structs.dll
+C:\Users\tjtics\Downloads\Structs\obj\Debug\netcoreapp3.0\Structs.pdb
