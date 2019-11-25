@@ -1,0 +1,11 @@
+C:\Users\tjtics\Downloads\NameStruct\bin\Debug\netcoreapp3.0\NameStructExample.exe
+C:\Users\tjtics\Downloads\NameStruct\bin\Debug\netcoreapp3.0\NameStructExample.deps.json
+C:\Users\tjtics\Downloads\NameStruct\bin\Debug\netcoreapp3.0\NameStructExample.runtimeconfig.json
+C:\Users\tjtics\Downloads\NameStruct\bin\Debug\netcoreapp3.0\NameStructExample.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\NameStruct\bin\Debug\netcoreapp3.0\NameStructExample.dll
+C:\Users\tjtics\Downloads\NameStruct\bin\Debug\netcoreapp3.0\NameStructExample.pdb
+C:\Users\tjtics\Downloads\NameStruct\obj\Debug\netcoreapp3.0\NameStructExample.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\NameStruct\obj\Debug\netcoreapp3.0\NameStructExample.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\NameStruct\obj\Debug\netcoreapp3.0\NameStructExample.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\NameStruct\obj\Debug\netcoreapp3.0\NameStructExample.dll
+C:\Users\tjtics\Downloads\NameStruct\obj\Debug\netcoreapp3.0\NameStructExample.pdb
