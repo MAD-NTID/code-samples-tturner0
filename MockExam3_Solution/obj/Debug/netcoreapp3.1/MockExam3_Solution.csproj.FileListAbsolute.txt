@@ -1,0 +1,11 @@
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\bin\Debug\netcoreapp3.1\MockExam3_Solution.exe
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\bin\Debug\netcoreapp3.1\MockExam3_Solution.deps.json
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\bin\Debug\netcoreapp3.1\MockExam3_Solution.runtimeconfig.json
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\bin\Debug\netcoreapp3.1\MockExam3_Solution.runtimeconfig.dev.json
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\bin\Debug\netcoreapp3.1\MockExam3_Solution.dll
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\bin\Debug\netcoreapp3.1\MockExam3_Solution.pdb
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\obj\Debug\netcoreapp3.1\MockExam3_Solution.csprojAssemblyReference.cache
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\obj\Debug\netcoreapp3.1\MockExam3_Solution.AssemblyInfoInputs.cache
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\obj\Debug\netcoreapp3.1\MockExam3_Solution.AssemblyInfo.cs
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\obj\Debug\netcoreapp3.1\MockExam3_Solution.dll
+C:\Users\tiand\Downloads\VSC\MockExam3_Solution\obj\Debug\netcoreapp3.1\MockExam3_Solution.pdb
